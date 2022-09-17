@@ -1,4 +1,4 @@
-from PIL import Image, ImageTk
+from PIL import Image
 import base64
 import io
 
